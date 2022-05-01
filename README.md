@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there, I'm Ivan! 👋
 
-<!--
-**ITrosh/ITrosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about anything [here](https://vk.com/itrosh)
 
-Here are some ideas to get you started:
+### Languages and Tools:
+![C++](https://img.shields.io/badge/C++-3c4149?style=for-the-badge&logo=C%2b%2b&logoColor=6295cb)
+![CMake](https://img.shields.io/badge/CMake-3c4149?style=for-the-badge&logo=CMake&logoColor=D76E00)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Follow Me:
+[![Telegram](https://img.shields.io/badge/-Telegram-3c4149?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ITrosh)
+[![ВКонтакте](https://img.shields.io/badge/-ВКонтакте-3c4149?style=for-the-badge&logo=Vk&logoColor=4e7db2)](https://vk.com/itrosh)
+
+[![ITrosh's github stats](https://github-readme-stats.vercel.app/api?username=ITrosh&show_icons=true&theme=great-gatsby)](https://github.com/ITrosh)
+[![ITrosh's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ITrosh&layout=compact&theme=great-gatsby)](https://github.com/ITrosh)
